@@ -1,0 +1,6 @@
+id,bus_number,departure_loc,arrival_loc,journey_duration,fare
+2,222,Lalbagh,Majestic,1hr,90
+3,365,Madiwala,Majestic,1hr,40
+4,342,Whitefield,Majestic,3hr,40
+5,312,Whitefield,Majestic,3hr,40
+6,322,Whitefield,Majestic,3hr,40
